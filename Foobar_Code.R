@@ -151,10 +151,12 @@ dev.off()
 #DotPlot Of Results
 png('R Visualization/CaretModelsB.PredVsObs.png', width=2000, height=2000, res=300)
 dotplot(model.caret.results)
+dotplot(model.caret.results)
 dev.off()
 
 
 #Print Results
+print(model.caret.results$values)
 print(model.caret.results$values)
 
 #======================================================================
@@ -167,3 +169,4 @@ rattle()
 
 #updated by Venkata
 #step 4 comment
+#I took a pill in ibiza
