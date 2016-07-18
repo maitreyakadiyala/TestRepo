@@ -169,8 +169,8 @@ rattle()
 
 #updated by Venkata
 #step 4 comment
-<<<<<<< HEAD
+
 #Simultaneous change from venkata
-=======
+
 #I took a pill in ibiza
->>>>>>> maitreyakadiyala
+
